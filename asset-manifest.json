@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kasettakorn/covid-vaccination/static/css/main.9ae07f86.chunk.css",
+    "main.js": "/kasettakorn/covid-vaccination/static/js/main.93438a13.chunk.js",
+    "main.js.map": "/kasettakorn/covid-vaccination/static/js/main.93438a13.chunk.js.map",
+    "runtime-main.js": "/kasettakorn/covid-vaccination/static/js/runtime-main.f5ea6436.js",
+    "runtime-main.js.map": "/kasettakorn/covid-vaccination/static/js/runtime-main.f5ea6436.js.map",
+    "static/css/2.721e2dbe.chunk.css": "/kasettakorn/covid-vaccination/static/css/2.721e2dbe.chunk.css",
+    "static/js/2.58160207.chunk.js": "/kasettakorn/covid-vaccination/static/js/2.58160207.chunk.js",
+    "static/js/2.58160207.chunk.js.map": "/kasettakorn/covid-vaccination/static/js/2.58160207.chunk.js.map",
+    "static/js/3.d664fba7.chunk.js": "/kasettakorn/covid-vaccination/static/js/3.d664fba7.chunk.js",
+    "static/js/3.d664fba7.chunk.js.map": "/kasettakorn/covid-vaccination/static/js/3.d664fba7.chunk.js.map",
+    "index.html": "/kasettakorn/covid-vaccination/index.html",
+    "static/css/2.721e2dbe.chunk.css.map": "/kasettakorn/covid-vaccination/static/css/2.721e2dbe.chunk.css.map",
+    "static/css/main.9ae07f86.chunk.css.map": "/kasettakorn/covid-vaccination/static/css/main.9ae07f86.chunk.css.map",
+    "static/js/2.58160207.chunk.js.LICENSE.txt": "/kasettakorn/covid-vaccination/static/js/2.58160207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5ea6436.js",
+    "static/css/2.721e2dbe.chunk.css",
+    "static/js/2.58160207.chunk.js",
+    "static/css/main.9ae07f86.chunk.css",
+    "static/js/main.93438a13.chunk.js"
+  ]
+}
